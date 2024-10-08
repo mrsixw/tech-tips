@@ -1,6 +1,6 @@
 # 2 - Python here-document
 
-We saw before you can use `python3 -c` to run small scripts. What is you wanted something slightly 
+We saw before you can use `python3 -c` to run small scripts. What if you wanted something slightly 
 longer with say a function? Well `here-document` is here to save the day. Consider
 
 ```bash
